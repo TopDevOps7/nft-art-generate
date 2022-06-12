@@ -1,0 +1,7 @@
+## Dependencies
+node_modules
+assets
+output
+
+## Lock file(s)
+package-lock.json
